@@ -80,29 +80,6 @@ export default {
     const res = {
       member: [
         {
-          id: 0,
-          nama: "Adzana Shaliha",
-          generasi: 9,
-          asal: "Tangerang",
-          nama_panggilan: "Ashel, Acel",
-          umur: 19,
-          salam_perkenalan:
-            "Aku datang bagaikan embun pagi yang menyejukkan suasana hati, hai aku Ashel!",
-          tanggal_bergabung: "1 Desember 2019",
-          fanbase: "Ashelytic",
-          kota_lahir: "Jakarta",
-          tanggal_lahir: "08 January 2005",
-          nama_lengkap: "Adzana Shaliha Alifyaa",
-          universitas: "-",
-          jurusan: "-",
-          foto: "https://jkt48.com/profile/adzana_shaliha.jpg?v=20230116",
-          username_idn: "Ashel JKT48",
-          username_ig: "jkt48.ashel",
-          username_sr: "Ashel / アシェル (JKT48)",
-          username_tiktok: "asheljkt48",
-          username_x: "S_AshelJKT48",
-        },
-        {
           id: 1,
           nama: "Amanda Sukma",
           generasi: 10,
