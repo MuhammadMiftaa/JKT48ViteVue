@@ -80,7 +80,7 @@ export default {
     const res = {
       member: [
         {
-          id: 1,
+          id: 0,
           nama: "Amanda Sukma",
           generasi: 10,
           asal: "Bandung",
@@ -103,7 +103,7 @@ export default {
           username_x: "PS_AmandaJKT48",
         },
         {
-          id: 2,
+          id: 1,
           nama: "Angelina Christy",
           generasi: 7,
           asal: "Jakarta",
@@ -126,7 +126,7 @@ export default {
           username_x: "A_ChristyJKT48",
         },
         {
-          id: 3,
+          id: 2,
           nama: "Aurellia",
           generasi: 10,
           asal: "Jakarta",
@@ -149,7 +149,7 @@ export default {
           username_x: "AU_LiaJKT48",
         },
         {
-          id: 4,
+          id: 3,
           nama: "Azizi Asadel",
           generasi: 7,
           asal: "Tangerang",
@@ -172,7 +172,7 @@ export default {
           username_x: "A_ZeeJKT48",
         },
         {
-          id: 5,
+          id: 4,
           nama: "Callista Alifia",
           generasi: 10,
           asal: "Jakarta",
@@ -195,7 +195,7 @@ export default {
           username_x: "AW_CallieJKT48",
         },
         {
-          id: 6,
+          id: 5,
           nama: "Cornelia Vanisa",
           generasi: 8,
           asal: "Tangerang",
@@ -218,7 +218,7 @@ export default {
           username_x: "C_OnielJKT48",
         },
         {
-          id: 7,
+          id: 6,
           nama: "Febriola Sinambela",
           generasi: 7,
           asal: "Jakarta",
@@ -241,7 +241,7 @@ export default {
           username_x: "F_OllaJKT48",
         },
         {
-          id: 8,
+          id: 7,
           nama: "Feni Fitriyanti",
           generasi: 3,
           asal: "Cianjur",
@@ -264,7 +264,7 @@ export default {
           username_x: "F_FeniJKT48",
         },
         {
-          id: 9,
+          id: 8,
           nama: "Fiony Alveria",
           generasi: 8,
           asal: "Tangerang",
@@ -287,7 +287,7 @@ export default {
           username_x: "A_FionyJKT48",
         },
         {
-          id: 10,
+          id: 9,
           nama: "Flora Shafiq",
           generasi: 8,
           asal: "Tangerang",
@@ -310,7 +310,7 @@ export default {
           username_x: "S_FloraJKT48",
         },
         {
-          id: 11,
+          id: 10,
           nama: "Freya Jayawardana",
           generasi: 7,
           asal: "Tangerang",
@@ -333,7 +333,7 @@ export default {
           username_x: "Freya_JKT48",
         },
         {
-          id: 12,
+          id: 11,
           nama: "Gabriela Abigail",
           generasi: 10,
           asal: "Jakarta",
@@ -356,7 +356,7 @@ export default {
           username_x: "AM_EllaJKT48",
         },
         {
-          id: 13,
+          id: 12,
           nama: "Gita Sekar Andarini",
           generasi: 6,
           asal: "Jakarta",
@@ -378,7 +378,7 @@ export default {
           username_x: "A_GitaJKT48",
         },
         {
-          id: 14,
+          id: 13,
           nama: "Grace Octaviani",
           generasi: 11,
           asal: "Jakarta",
@@ -401,7 +401,7 @@ export default {
           username_x: "@Gracie_JKT48",
         },
         {
-          id: 15,
+          id: 14,
           nama: "Greesella Adhalia",
           generasi: 11,
           asal: "Jakarta",
@@ -424,7 +424,7 @@ export default {
           username_x: "@Greesel_JKT48",
         },
         {
-          id: 16,
+          id: 15,
           nama: "Helisma Putri",
           generasi: 7,
           asal: "Bandung",
@@ -447,7 +447,7 @@ export default {
           username_x: "H_EliJKT48",
         },
         {
-          id: 17,
+          id: 16,
           nama: "Indah Cahya",
           generasi: 9,
           asal: "Kerinci",
@@ -470,7 +470,7 @@ export default {
           username_x: "C_IndahJKT48",
         },
         {
-          id: 18,
+          id: 17,
           nama: "Indira Seruni",
           generasi: 10,
           asal: "Bandung",
@@ -493,7 +493,7 @@ export default {
           username_x: "SP_IndiraJKT48",
         },
         {
-          id: 19,
+          id: 18,
           nama: "Jessica Chandra",
           generasi: 7,
           asal: "Tangerang",
@@ -516,7 +516,7 @@ export default {
           username_x: "C_JessiJKT48",
         },
         {
-          id: 20,
+          id: 19,
           nama: "Jesslyn Elly",
           generasi: 10,
           asal: "Jakarta",
@@ -539,7 +539,7 @@ export default {
           username_x: "SE_LynJKT48",
         },
         {
-          id: 21,
+          id: 20,
           nama: "Kathrina Irene",
           generasi: 9,
           asal: "Jakarta",
@@ -562,7 +562,7 @@ export default {
           username_x: "I_KathrinaJKT48",
         },
         {
-          id: 22,
+          id: 21,
           nama: "Lulu Salsabila",
           generasi: 8,
           asal: "Serang",
@@ -585,7 +585,7 @@ export default {
           username_x: "A_LuluJKT48",
         },
         {
-          id: 23,
+          id: 22,
           nama: "Marsha Lenathea",
           generasi: 9,
           asal: "Jakarta",
@@ -608,7 +608,7 @@ export default {
           username_x: "L_MarshaJKT48",
         },
         {
-          id: 24,
+          id: 23,
           nama: "Mutiara Azzahra",
           generasi: 7,
           asal: "Jakarta",
@@ -631,7 +631,7 @@ export default {
           username_x: "A_MutheJKT48",
         },
         {
-          id: 25,
+          id: 24,
           nama: "Raisha Syifa",
           generasi: 10,
           asal: "Jakarta",
@@ -654,7 +654,7 @@ export default {
           username_x: "SW_RaishaJKT48",
         },
         {
-          id: 26,
+          id: 25,
           nama: "Reva Fidela",
           generasi: 8,
           asal: "Jakarta",
@@ -677,7 +677,7 @@ export default {
           username_x: "R_AdelJKT48",
         },
         {
-          id: 27,
+          id: 26,
           nama: "Shani Indira Natio",
           generasi: 3,
           asal: "Yogyakarta",
@@ -699,7 +699,7 @@ export default {
           username_x: "N_ShaniJKT48",
         },
         {
-          id: 28,
+          id: 27,
           nama: "Shania Gracia",
           generasi: 3,
           asal: "Jakarta",
@@ -1056,7 +1056,7 @@ export default {
           username_x: "@Gendis_JKT48",
         },
         {
-          id: 17,
+          id: 15,
           nama: "Hillary Abigail",
           generasi: 12,
           asal: "Jakarta",
@@ -1077,7 +1077,7 @@ export default {
           username_x: "@Lily_JKT48",
         },
         {
-          id: 18,
+          id: 16,
           nama: "Jazzlyn Trisha",
           generasi: 12,
           asal: "Jakarta",
@@ -1098,7 +1098,7 @@ export default {
           username_x: "@JTrisha_JKT48",
         },
         {
-          id: 19,
+          id: 17,
           nama: "Jeane Victoria",
           generasi: 11,
           asal: "Jakarta",
@@ -1121,7 +1121,7 @@ export default {
           username_x: "@Jeane_JKT48",
         },
         {
-          id: 20,
+          id: 18,
           nama: "Letycia Moreen",
           generasi: 12,
           asal: "Jakarta",
@@ -1142,7 +1142,7 @@ export default {
           username_x: "@Moreen_JKT48",
         },
         {
-          id: 21,
+          id: 19,
           nama: "Michelle Alexandra",
           generasi: 11,
           asal: "Palembang",
@@ -1165,7 +1165,7 @@ export default {
           username_x: "@Michie_JKT48",
         },
         {
-          id: 22,
+          id: 20,
           nama: "Michelle Levia",
           generasi: 12,
           asal: "Tangerang",
@@ -1186,7 +1186,7 @@ export default {
           username_x: "@Levi_JKT48",
         },
         {
-          id: 23,
+          id: 21,
           nama: "Nayla Suji",
           generasi: 12,
           asal: "Jepang",
@@ -1207,7 +1207,7 @@ export default {
           username_x: "@SNayla_JKT48",
         },
         {
-          id: 24,
+          id: 22,
           nama: "Nina Tutachia",
           generasi: 12,
           asal: "Bali",
@@ -1228,7 +1228,7 @@ export default {
           username_x: "@Nachia_JKT48",
         },
         {
-          id: 25,
+          id: 23,
           nama: "Oline Manuel",
           generasi: 12,
           asal: "Jakarta",
@@ -1248,7 +1248,7 @@ export default {
           username_x: "@M_OlineJKT48",
         },
         {
-          id: 26,
+          id: 24,
           nama: "Regina Wilian",
           generasi: 12,
           asal: "Surakarta",
@@ -1269,7 +1269,7 @@ export default {
           username_x: "@Regie_JKT48",
         },
         {
-          id: 27,
+          id: 25,
           nama: "Ribka Budiman",
           generasi: 12,
           asal: "Bandung",
@@ -1290,7 +1290,7 @@ export default {
           username_x: "@Ribka_JKT48",
         },
         {
-          id: 28,
+          id: 26,
           nama: "Shabilqis Naila",
           generasi: 12,
           asal: "Jakarta",
@@ -1311,7 +1311,7 @@ export default {
           username_x: "@Nala_JKT48",
         },
         {
-          id: 29,
+          id: 27,
           nama: "Victoria Kimberly",
           generasi: 12,
           asal: "Jakarta",
